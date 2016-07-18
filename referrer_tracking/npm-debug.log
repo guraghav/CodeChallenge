@@ -9,8 +9,8 @@
 6 silly lifecycle referrer_tracking@0.0.0~prestart: no script for prestart, continuing
 7 info lifecycle referrer_tracking@0.0.0~start: referrer_tracking@0.0.0
 8 verbose lifecycle referrer_tracking@0.0.0~start: unsafe-perm in lifecycle true
-9 verbose lifecycle referrer_tracking@0.0.0~start: PATH: /usr/local/lib/node_modules/npm/bin/node-gyp-bin:/Users/gunjan/Documents/IntuitCodeChallenge/referrer_tracking/node_modules/.bin:/usr/local/Cellar/node/6.2.0/bin:/Users/gunjan/bin:/usr/local/bin:/Library/Frameworks/Python.framework/Versions/3.4/bin:/Library/Frameworks/Python.framework/Versions/3.5/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/mysql/bin:/Library/TeX/texbin
-10 verbose lifecycle referrer_tracking@0.0.0~start: CWD: /Users/gunjan/Documents/IntuitCodeChallenge/referrer_tracking
+9 verbose lifecycle referrer_tracking@0.0.0~start: PATH: /usr/local/lib/node_modules/npm/bin/node-gyp-bin:/Users/gunjan/Documents/CodeChallenge/referrer_tracking/node_modules/.bin:/usr/local/Cellar/node/6.2.0/bin:/Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin:/Users/gunjan/bin:/usr/local/bin:/Library/Frameworks/Python.framework/Versions/3.4/bin:/Library/Frameworks/Python.framework/Versions/3.5/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/mysql/bin:/Library/TeX/texbin
+10 verbose lifecycle referrer_tracking@0.0.0~start: CWD: /Users/gunjan/Documents/CodeChallenge/referrer_tracking
 11 silly lifecycle referrer_tracking@0.0.0~start: Args: [ '-c', 'node ./bin/www' ]
 12 silly lifecycle referrer_tracking@0.0.0~start: Returned: code: 1  signal: null
 13 info lifecycle referrer_tracking@0.0.0~start: Failed to exec start script
@@ -25,7 +25,7 @@
 14 verbose stack     at maybeClose (internal/child_process.js:850:16)
 14 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:215:5)
 15 verbose pkgid referrer_tracking@0.0.0
-16 verbose cwd /Users/gunjan/Documents/IntuitCodeChallenge/referrer_tracking
+16 verbose cwd /Users/gunjan/Documents/CodeChallenge/referrer_tracking
 17 error Darwin 15.4.0
 18 error argv "/usr/local/Cellar/node/6.2.0/bin/node" "/usr/local/bin/npm" "start"
 19 error node v6.2.0
